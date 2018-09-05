@@ -22,7 +22,6 @@
     "eslint-plugin-import": "2.8.0",
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-react": "7.4.0",
-    "extract-text-webpack-plugin": "3.0.2",
     "file-loader": "1.1.5",
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
@@ -51,6 +50,9 @@
     "test": "node scripts/test.js --env=jsdom"
   },
   "devDependencies": {
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
     "webpack-bundle-tracker": "^0.3.0"
   },
   "jest": {
