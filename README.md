@@ -11,3 +11,5 @@ python manage.py runserver
 # Start Webpack server
 cd frontend && npm run start
 ```
+
+Once the servers have started. Simply view the app at https://localhost:8000.
