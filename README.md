@@ -9,7 +9,7 @@ Based on a [blog](http://v1k45.com/blog/modern-django-part-1-setting-up-django-a
 python manage.py runserver
 
 # Start Webpack server
-cd frontend && npm run start
+cd frontend && npm install && npm run start
 ```
 
 Once the servers have started, simply view the app at http://localhost:8000.
