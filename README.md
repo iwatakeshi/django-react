@@ -12,4 +12,4 @@ python manage.py runserver
 cd frontend && npm run start
 ```
 
-Once the servers have started. Simply view the app at http://localhost:8000.
+Once the servers have started, simply view the app at http://localhost:8000.
