@@ -1,5 +1,7 @@
 # django-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iwatakeshi/django-react.svg)](https://greenkeeper.io/)
+
 Based on a [blog](http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/) series.
 
 ## Installing dependencies
